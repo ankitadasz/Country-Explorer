@@ -1,0 +1,17 @@
+[
+  {
+   "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Odisha, Bhubaneswar"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "987655248"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "daszankita23@gmail.com"
+  }
+]
